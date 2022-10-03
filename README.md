@@ -1,4 +1,4 @@
-# create-cardboard-crish-1-18-2-
+# create-cardboard-crush-1-18-2-
 create cardboard crish 1 18 2 
 
 server on the fabric , we want to install the cardboard and create mods, these mods crash together, all the mods of the newest version on 1 18 2 all additional mods are installed
